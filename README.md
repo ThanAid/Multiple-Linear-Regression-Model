@@ -6,4 +6,10 @@ Important notes:
 ----------------------------------------------------------------------
 In this project a multiple linear Regression Model is fitted. Features are examined via various methods like VIF etc. Then model is optimised using Diagnostics like AIC and others.
 
+----------------------------------------------------------------------
+Some examples:
+Correlation Matrix for the features examined:
 ![Correlation between Features](cor.jpg)
+
+Some Diagonostic Plots:
+![Diag](diag.jpg)
